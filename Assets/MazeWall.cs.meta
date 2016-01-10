@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6b7d93db55419a74ca6d5831537567af
+timeCreated: 1452404438
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - cell: {instanceID: 0}
+  - otherCell: {instanceID: 0}
+  - wall: {fileID: 488914, guid: 6383292f35599bc4da177d8c39c702ea, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
